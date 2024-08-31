@@ -6,11 +6,13 @@
 
 main:
   - title: "Artical"
-    url: /publications/
+    url: /artical/
 
   - title: "Code"
-    url: /talks/    
+    url: /code/    
 
-  - title: "Other"
-    url: /teaching/    
+  - title: "Publications"
+    url: /publications/    
     
+  - title: "Other"
+    url: /other/    
