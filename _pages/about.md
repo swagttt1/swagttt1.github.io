@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-随便写写
+到此一游
